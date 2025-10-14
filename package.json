@@ -1,0 +1,28 @@
+{
+  "name": "interview-preparation",
+  "version": "1.0.0",
+  "description": "My frontend interview preparation journey - algorithms, JavaScript, React tasks and solutions",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "test:watch": "node --test --watch",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "interview",
+    "algorithms",
+    "javascript",
+    "react",
+    "frontend",
+    "coding-challenges"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "prettier": "^3.0.0"
+  },
+  "packageManager": "pnpm@10.8.1"
+}
