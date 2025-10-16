@@ -21,4 +21,8 @@ function findMax3(arr) { //Cложность O(n)
     return max;
 }
 
-console.log(findMax3([1,2,4,7,5,43,5,-1,232]))
+
+
+
+
+console.log(findMax4([1,2,4,7,5,43,5,-1,23]))
